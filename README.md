@@ -4,6 +4,4 @@ O modelo desse repositório foi criado como parte do quinto desafio da formaçã
 
 Arquivos do repositório:
 
-data.csv - Base de dados;
-
 DataClean&Wrang.ipynb - Código.
